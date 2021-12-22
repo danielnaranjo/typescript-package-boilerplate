@@ -4,7 +4,7 @@ A TypeScript package template to create an NPM library for build, test, lint, au
 
 ## First Step 
 Run `node start-here.ts {package name`, for example: 
-```node start-here.ts danielnaranjo/hello-world```
+```node scripts/start-here.ts danielnaranjo/hello-world```
 
 ## Start coding
 Ladies and Gentlemen, you know what to do. 
